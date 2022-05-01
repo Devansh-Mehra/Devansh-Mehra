@@ -7,7 +7,7 @@ BlockChain Developer , ML Enthusiast
 Student, Learner
 
 * 🌍  I'm based in Chennai
-* 🤝  I'm open to collaborating on Blockchain and Machine Learning projects
+* 🤝  I'm open to collaborating on Blockchain and AI/ML projects
 
 ### Skills
 
