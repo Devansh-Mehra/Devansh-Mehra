@@ -1,7 +1,7 @@
 Hi 👋 My name is Devansh Mehra
 ==============================
 
-BlockChain Developer, Web Developer , ML Enthusiast
+BlockChain Developer, Frontend Web Developer , ML Enthusiast
 ------------------------------------
 
 Student, Learner
